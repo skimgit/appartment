@@ -9,6 +9,7 @@ namespace Appartment.Tests
         [TestMethod]
         public void TestMethod1()
         {
+            //test
         }
     }
 }
